@@ -2,6 +2,8 @@
 /* *****************************************************************************
  * Grupo:
  * Alunos integrantes:
+ Henrique Sérgio Rocha Meneses Junior
+
  *
  * Descrição: Esta classe define o tipo de dado Tour implementando uma
  * Lista Encadeada Circular e definindo métodos para permitir a implementação
